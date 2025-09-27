@@ -1,2 +1,2 @@
 # hello-git
-learning git
+completed learning
